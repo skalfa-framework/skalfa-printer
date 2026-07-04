@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "NodeNext",
+    "moduleResolution": "NodeNext",
+    "lib": ["DOM", "DOM.Iterable", "ES2022"],
+    "declaration": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "jsx": "react-jsx",
+    "typeRoots": [
+      "../skalfa-app-core/node_modules/@types"
+    ],
+    "paths": {
+      "@skalfa/skalfa-app-core": ["../skalfa-app-core/dist/index.d.ts"],
+      "@tauri-apps/api/*": ["../skalfa-app-core/node_modules/@tauri-apps/api/*"]
+    }
+  },
+  "include": ["src/**/*"]
+}

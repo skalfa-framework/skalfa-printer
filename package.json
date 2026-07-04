@@ -1,0 +1,35 @@
+{
+  "name": "@skalfa/skalfa-printer",
+  "version": "0.1.0",
+  "description": "Thermal printer bridge for Skalfa App.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "src-rust"
+  ],
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": [
+    "skalfa",
+    "printer",
+    "thermal",
+    "tauri",
+    "escpos"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "@tauri-apps/api": "^2.0.0",
+    "@skalfa/skalfa-app-core": "^1.0.0",
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tauri-apps/api": "^2.0.0",
+    "@skalfa/skalfa-app-core": "^1.0.0",
+    "@types/react": "^19.0.0",
+    "react": "^19.2.1",
+    "typescript": "^6.0.3"
+  }
+}

@@ -1,0 +1,11 @@
+D:\_skalfa\skalfa-printer\src-rust\target\debug\deps\keyboard_types-7ef10f343c02feed.d: C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\lib.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\code.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\key.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\location.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\modifiers.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\shortcuts.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\webdriver.rs
+
+D:\_skalfa\skalfa-printer\src-rust\target\debug\deps\libkeyboard_types-7ef10f343c02feed.rmeta: C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\lib.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\code.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\key.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\location.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\modifiers.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\shortcuts.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\webdriver.rs
+
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\lib.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\code.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\key.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\location.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\modifiers.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\shortcuts.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\keyboard-types-0.7.0\src\webdriver.rs:

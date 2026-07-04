@@ -1,0 +1,2 @@
+cargo:rustc-link-search=native=D:\_skalfa\skalfa-printer\src-rust\target\debug\build\webview2-com-sys-11f3b6737dd1eabb\out\x64
+cargo:rustc-link-lib=advapi32

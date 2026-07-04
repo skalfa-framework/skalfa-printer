@@ -1,0 +1,10 @@
+D:\_skalfa\skalfa-printer\src-rust\target\debug\deps\toml_writer-5deeac1ad97a328b.d: C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\lib.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\integer.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\key.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\string.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\value.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\write.rs
+
+D:\_skalfa\skalfa-printer\src-rust\target\debug\deps\libtoml_writer-5deeac1ad97a328b.rmeta: C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\lib.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\integer.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\key.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\string.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\value.rs C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\write.rs
+
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\lib.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\integer.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\key.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\string.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\value.rs:
+C:\Users\muham\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\toml_writer-1.1.1+spec-1.1.0\src\write.rs:
