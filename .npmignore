@@ -1,0 +1,10 @@
+# Ignore Rust build output
+src-rust/target/
+
+# Ignore local build logs
+*.log
+npm-debug.log*
+
+# Ignore config/cache files
+.DS_Store
+Thumbs.db
