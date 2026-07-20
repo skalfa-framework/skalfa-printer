@@ -1,6 +1,6 @@
 {
   "name": "@skalfa/skalfa-printer",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Thermal printer bridge for Skalfa Framework.",
   "license": "MIT",
   "keywords": ["skalfa", "skalfa-app", "skalfa-printer", "next-framework", "next-printer-thermal"],
@@ -8,7 +8,8 @@
   "types": "dist/index.d.ts",
   "files": [
     "dist",
-    "src-rust"
+    "src-rust",
+    "!src-rust/target"
   ],
   "scripts": {
     "build": "tsc -p tsconfig.build.json"
